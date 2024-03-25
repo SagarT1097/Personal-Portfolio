@@ -69,7 +69,7 @@ export default function About({}: Props) {
         <p>
           As a language-agnostic problem solver with excellent communication and
           collaboration skills, I thrive in dynamic environments where
-          creativity and teamwork are valued. Whether it's developing intuitive
+          creativity and teamwork are valued. Whether it is developing intuitive
           user interfaces or architecting scalable backend systems, I am
           committed to delivering high-quality solutions that exceed
           expectations and drive business success.
