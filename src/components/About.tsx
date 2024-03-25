@@ -35,35 +35,36 @@ export default function About({}: Props) {
       <div className="text-sm md:text-sm xl:text-md">
         <p>
           I am a versatile and dedicated Software Engineer specializing in the
-          development of Software as a Service applications using Next.js. With
-          a strong foundation in both frontend and backend technologies, I excel
-          in crafting robust and scalable solutions that meet the dynamic needs
-          of modern businesses. My expertise lies in leveraging a diverse skill
-          set, including React, TypeScript, Node.js, PostgreSQL, and AWS, to
-          deliver cutting-edge applications that drive innovation and
-          efficiency.
+          development of Software as a Service applications using <b>Next.js</b>
+          . With a strong foundation in both frontend and backend technologies,
+          I excel in crafting robust and <b>scalable</b> solutions that meet the
+          dynamic needs of modern businesses. My expertise lies in leveraging a
+          diverse skill set, including{" "}
+          <b>React, TypeScript, Node.js, PostgreSQL, and AWS</b>, to deliver
+          cutting-edge applications that drive innovation and efficiency.
         </p>
         <br />
         <p>
           My journey in software development has been marked by impactful
           projects and enriching experiences. At Volvo Cars, I spearheaded the
-          design and development of a groundbreaking 3D Data Visualization tool,
-          utilizing C#, Unity3D, and Microsoft Hololens 2, to analyze customer
+          design and development of a groundbreaking{" "}
+          <b>3D Data Visualization tool</b>, utilizing{" "}
+          <b>C#, Unity3D, and Microsoft Hololens 2</b>, to analyze customer
           interactions and inform product decisions. This experience honed my
-          ability to collaborate effectively across departments and deliver
-          solutions that align with strategic objectives.
+          ability to <b>collaborate</b> effectively across departments and
+          deliver solutions that align with strategic objectives.
         </p>
         <br />
         <p>
           My passion for innovation extends beyond traditional software
           development, as evidenced by my involvement in projects such as
-          CerebralAI, EduPod, and AI Chatbot, which integrate advanced AI
-          technologies to deliver cutting-edge solutions. Furthermore, my
-          educational background, including a Master of Science in Computer
-          Science from Uppsala University and a Bachelor of Engineering from
-          NITTE Meenakshi Institute of Technology, has equipped me with a
-          comprehensive understanding of computer science principles and
-          emerging technologies.
+          CerebralAI, EduPod, and AI Chatbot, which integrate{" "}
+          <b>advanced AI technologies</b> to deliver cutting-edge solutions.
+          Furthermore, my educational background, including a{" "}
+          <b>Master of Science in Computer Science from Uppsala University</b>{" "}
+          and a Bachelor of Engineering from NITTE Meenakshi Institute of
+          Technology, has equipped me with a comprehensive understanding of
+          computer science principles and emerging technologies.
         </p>
         <br />
         <p>
